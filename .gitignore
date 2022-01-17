@@ -4,3 +4,8 @@
 # Project exclude paths
 /.gradle/
 /build/
+InfluxDbClient.iml
+InfluxDbClient.ipr
+InfluxDbClient.iws
+InfluxDbClient.main.iml
+InfluxDbClient.test.iml
