@@ -1,0 +1,6 @@
+# Default ignored files
+/InfluxDbClient.iws
+
+# Project exclude paths
+/.gradle/
+/build/
